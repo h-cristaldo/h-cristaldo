@@ -57,16 +57,6 @@ Soy **Administrador de Redes y Project Manager** en la Secretaría de Innovació
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HernanCris&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernanCris&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 Contacto
 <p align="left">
   <a href="https://www.linkedin.com/in/hernan-ariel-cristaldo-112357185/" target="_blank">
